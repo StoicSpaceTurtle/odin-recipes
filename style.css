@@ -1,0 +1,31 @@
+* {
+    color: rgb(77,77,79);
+    font-family: 'Courier New', 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+a {
+    color: rgb(0, 97, 175);
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.sub {
+    font-size: 20px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
